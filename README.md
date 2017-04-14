@@ -2,7 +2,7 @@
 
 Analysis of American Community Survey (ACS) and American Time Use Survey (ATUS) data describing work-from-home trends.
 
-Data used by these scripts was exported from [IPUMS](http://ipums.org). Due to the size of the data, it is impossible to include it in the repository, however the codebooks describing the exports rae included for those that wish to recreate them.
+Data used by these scripts was exported from [IPUMS](http://ipums.org). Due to the size of the data, it is impossible to include it in the repository, however the codebooks describing the exports are included for those that wish to recreate them.
 
 ## What's in here
 
